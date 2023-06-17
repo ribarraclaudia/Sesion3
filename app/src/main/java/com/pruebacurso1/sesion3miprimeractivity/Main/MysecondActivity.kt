@@ -25,6 +25,6 @@ class MysecondActivity : AppCompatActivity() {
 
     override fun onResume() {
         super.onResume()
-        Toast.makeText(this,"hola segundo",Toast.LENGTH_LONG).show()
+        Toast.makeText(this,"Comenzando segundo activity",Toast.LENGTH_LONG).show()
     }
 }
